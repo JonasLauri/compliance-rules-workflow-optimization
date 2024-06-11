@@ -3,7 +3,7 @@ This is real example of one business process in the compliance area (FCP) which 
 
 Business case and detail information about process steps can be seen in the PDF file: Further Improvements for Temporary Business Rules Management.pdf
 
-# Screenshot of one improved process step
+# The result of one improved process step
 GUI tool which automatically adds and adjusts settings for weekly business process - the temporary business rules creation in compliance system:
 
 
