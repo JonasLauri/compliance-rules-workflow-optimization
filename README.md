@@ -9,5 +9,4 @@ GUI tool which automatically adds and adjusts settings for weekly business proce
 
 ![image](https://github.com/JonasLauri/Compliance_Business_Rules_Improvements/assets/31222361/8a42375c-cfbb-4136-8383-e1130d836248)
 
-
 Note: the tool was not created by me, but other contributor. My input was the idea and business requirement documentation!
