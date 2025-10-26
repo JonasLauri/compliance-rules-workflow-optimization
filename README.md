@@ -1,12 +1,43 @@
-# Compliance Business Rules Process Improvements
-This is real example of one business process in the compliance area (FCP) which was changed and improved together with other team support. It took 2 - 3 month to change and optimize process steps for one daily operational task. The task is performed every week and is crusial for operational teams as this process reduces operational load and FTE.
+## Compliance Rules Workflow Optimization
 
-Business case and detail information about process steps can be seen in the PDF file: Further Improvements for Temporary Business Rules Management.pdf
+This repository presents a real business case from the compliance area (FCP), where a recurring operational process was redesigned and optimized in collaboration with other teams.  
+The improvement project took approximately 2–3 months and focused on streamlining daily and weekly workflows, reducing manual workload, and improving operational efficiency (FTE savings).
 
-# The result of one improved process step
-GUI tool which automatically adds and adjusts settings for weekly business process - the temporary business rules creation in compliance system:
+##
 
+### Business Case Overview
+Detailed process description and change documentation are available in the accompanying PDF:  
+**Further Improvements for Temporary Business Rules Management.pdf**
+
+This document outlines:
+- The initial process challenges and inefficiencies  
+- Implemented improvements and automation steps  
+- Measurable impact on operational load  
+
+##
+
+### Improved Process Example
+A GUI tool was introduced to automatically add and adjust weekly business rule settings within the compliance system — significantly reducing repetitive manual work.
 
 ![image](https://github.com/JonasLauri/Compliance_Business_Rules_Improvements/assets/31222361/8a42375c-cfbb-4136-8383-e1130d836248)
 
-Note: the tool was not created by me, but the other contributor. My input was the idea and business requirement documentation!
+> **Note:** The tool itself was created by another contributor.  
+> My contribution focused on the idea, process mapping, developing supporting automations and business requirements documentation.
+
+##
+
+### Technologies
+- **VBA** — internal data handling and macro support  
+- **AutoHotkey** — automation enhancements using key bindings and workflow shortcuts  
+- **Python** *(developed collaboratively with another associate)* — extended automation and data processing using:
+  - `selenium` — browser automation  
+  - `pandas` — data handling and transformation  
+  - `requests` — API and system data retrieval  
+  - `tkinter` — GUI creation and front-end automation  
+
+##
+
+### Outcome
+- Reduced weekly manual effort  
+- Improved rule consistency and accuracy  
+- Enhanced cross-team collaboration and documentation flow
